@@ -59,5 +59,7 @@ A complete USSD-based mobile money system with agent functionality, SMS notifica
 
 composer require africastalking/africastalking-sdk
 
+# Importance notice Remember to import database from db folder 
+
 
 
